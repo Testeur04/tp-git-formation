@@ -1,9 +1,9 @@
 // Formulaire de connexion - fonctionnalité A (U2)
-const NOM_UTILISATEUR = "u2";
+const username = "u2";
 
 function login() {
   // Instructions de connexion
-  console.log("Connexion de " + NOM_UTILISATEUR);
+  console.log("Connexion de " + username);
   return true;
 }
 
