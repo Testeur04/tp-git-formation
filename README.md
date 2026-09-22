@@ -1,3 +1,3 @@
-# # TP Git Formation - version U2
+# TP Git Formation - bouton de deconnexion
 
 Auteur: U2
