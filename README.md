@@ -1,3 +1,3 @@
-# TP Git Formation - formulaire de connexion
+# TP Git Formation - formulaire de connexion + bouton de deconnexion
 
 Auteur: U2
